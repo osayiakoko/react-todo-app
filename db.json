@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "name": "Learn Node",
+      "done": false,
+      "id": 1
+    },
+    {
+      "name": "Learn React",
+      "done": false,
+      "id": 2
+    },
+    {
+      "name": "Learn Express",
+      "done": false,
+      "id": 3
+    },
+    {
+      "name": "Learn MongoDB",
+      "done": false,
+      "id": 4
+    },
+    {
+      "name": "Become a MERN developer",
+      "done": false,
+      "id": 5
+    }
+  ]
+}
